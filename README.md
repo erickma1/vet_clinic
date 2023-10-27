@@ -118,4 +118,5 @@ Feel free to check the [issues page](../../issues/).
 
 This project is [MIT](https://github.com/erickma1/vet_clinic/blob/animal_table/LICENSE.txt) licensed.
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
