@@ -116,7 +116,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/erickma1/vet_clinic/blob/LICENSE.txt) licensed.
+This project is [MIT](https://github.com/erickma1/vet_clinic/blob/animal_table/LICENSE.txt) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
