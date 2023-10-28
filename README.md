@@ -41,10 +41,13 @@
 ### Key Features <a name="key-features"></a>
 
 
-- Animal Table Created
-- Data inserted into table
-- Quries performed on table to fetch data
-- Rollback and commit transactional quries
+-Table for animals
+-Table for owners
+-Table for species
+-Adding data in animals table
+-Query and update animals table.
+-Used Foreign keys in animal table
+-Used JOIN statements to fetch data
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,11 +76,7 @@
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] query and update animals table.
-- [ ] query multiple tables
-- [ ] add "join table" for visits
-- [ ] database performance audit
-- [ ] add database schema diagram.
+- [ ] Perform quries for many-to-many relationships
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
