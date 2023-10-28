@@ -48,6 +48,10 @@
 -Query and update animals table.
 -Used Foreign keys in animal table
 -Used JOIN statements to fetch data
+-Join table for vets and species which is specialization
+-Join table for vets and animals which is visit
+-Join table for vets and species which is specialization
+-Join table for vets and animals which is visit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,11 +76,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-
-- [ ] Perform quries for many-to-many relationships
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
