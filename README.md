@@ -44,6 +44,7 @@
 - Animal Table Created
 - Data inserted into table
 - Quries performed on table to fetch data
+- Rollback and commit transactional quries
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
