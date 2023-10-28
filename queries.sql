@@ -129,7 +129,7 @@ FROM animals
 JOIN visits ON animals.id = visits.animal_id
 JOIN vets ON visits.vet_id = vets.id
 WHERE vets.name = 'Maisy Smith'
-GROUP BY animals.name;
+GROUP BY animals.name LIMIT 1;
 
 SELECT animals.name AS animal_name, vets.name AS vet_name, visits.visit_date
 FROM visits
